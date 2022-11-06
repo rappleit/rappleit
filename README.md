@@ -8,5 +8,5 @@ I am a Singaporean programmer that loves to work on development projects and bri
 
 ### 📊 Stats
 ---
-![Rachel's Github Stats](https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&count_private=true)
+![Rachel's Github Stats](https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&count_private=true&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappleit&theme=tokyonight&layout=compact)
