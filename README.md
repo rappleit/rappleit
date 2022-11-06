@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hey there! I'm Rachel 🐱‍👤
+I am a Singaporean programmer that loves to work on development projects and bring ideas to life digitally. :D I also love cats. 🐈
+
+### ⚙️ Projects
+---
+- [EchoClass](https://github.com/michaelchen-lab/LMS_Frontend): Learning management system for teachers to track student progress. Worked on front-end and UI design.
+- [SEB Admin Panel](https://github.com/codeexp22-seb/SEBadmin): Admin web dashboard for an app hackathon entry that caters to National Servicemen. Worked on front-end.
 
 <!--
 **rappleit/rappleit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
