@@ -1,5 +1,5 @@
 ## Hey there! I'm Rachel 🐱‍👤
-I am a Singaporean programmer that loves to work on development projects and bring ideas to life digitally. :D I also love cats. 🐈
+I am a Singaporean student developer that loves to work on development projects and bring ideas to life digitally. :D I also love cats. 🐈
 
 ### ⚙️ Projects
 ---
