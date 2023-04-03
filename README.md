@@ -3,8 +3,9 @@ I am a Singaporean student developer that loves to work on development projects 
 
 ### ⚙️ Projects
 ---
-- [EchoClass](https://github.com/michaelchen-lab/LMS_Frontend): Learning management system for teachers to track student progress. Worked on front-end and UI design.
-- [SEB Admin Panel](https://github.com/codeexp22-seb/SEBadmin): Admin web dashboard for an app hackathon entry that caters to National Servicemen. Worked on front-end.
+- [Routourist](https://github.com/rappleit/routourist): Route Builder that aims to promote sustainable tourism. A GDSC Solutions Challenge 2023 Submission. Worked on frontend and backend. 
+- [EchoClass](https://github.com/michaelchen-lab/LMS_Frontend): Learning management system for teachers to track student progress. Worked on frontend and UI design.
+- [SEB Admin Panel](https://github.com/codeexp22-seb/SEBadmin): Admin web dashboard for an app hackathon entry that caters to National Servicemen. Worked on frontend.
 
 ### 📊 Stats
 ---
