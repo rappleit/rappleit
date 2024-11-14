@@ -5,7 +5,7 @@
 | ![Rachel's Github Stats](https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github) | [![trophy](https://github-profile-trophy.vercel.app/?username=rappleit&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 
-### ⚙️ What I build with
+### 🛠️ What I build with
 ---
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rappleit&theme=tokyonight&layout=compact&exclude_repo=Portential) | [![My Skills](https://skillicons.dev/icons?i=react,html,css,js,nextjs,vercel,swift,dotnet,nodejs,postgres,mongodb,figma)](https://skillicons.dev) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
