@@ -5,7 +5,7 @@
 
 <table border="0">
     <tr>
-        <td width="42%">
+        <td width="40%">
             <h2>Hi there!</h2>
             <p>I am a fullstack developer that loves to build projects and bring ideas to life! I have built:</p>
             <ul>
@@ -15,7 +15,7 @@
             </ul>
             Check out my portfolio at https://wwww.rappleit.com!
         </td>
-        <td width="55%">
+        <td width="60%">
             <img src="https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github" alt="Rachel's Github Stats" width="100%">
             <a href="https://github.com/ryo-ma/github-profile-trophy">
                 <img src="https://github-profile-trophy.vercel.app/?username=rappleit&theme=algolia" alt="Trophies">
