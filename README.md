@@ -1,7 +1,6 @@
 ![Github Card Animated](https://github.com/user-attachments/assets/2dd7ab1a-6b5e-492b-b1e9-33f034757a37)
 
 ---
-
 <table border="0">
     <tr>
         <td width="55%">
@@ -12,7 +11,10 @@
                 <li>💻 5 Web Applications</li>
                 <li>📱 4 Mobile Apps</li>
             </ul>
-            Check out my portfolio at https://wwww.rappleit.com!
+            Check out my portfolio at <a>https://wwww.rappleit.com!
+            <br/>
+             <br/>
+            <img src="https://komarev.com/ghpvc/?username=rappleit&color=blueviolet&style=for-the-badge" alt="Profile views">
         </td>
         <td width="40%">
             <img src="https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github" alt="Rachel's Github Stats" width="100%">
