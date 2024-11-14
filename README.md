@@ -12,7 +12,8 @@
                 <li>🌐 3 Static Websites</li>
                 <li>💻 5 Web Applications</li>
                 <li>📱 4 Mobile Apps</li>
-</ul>
+            </ul>
+            <p>Check out my portfolio at <a href="www.rappleit.com" target="_blank">www.rappleit.com</a>!</p>
         </td>
         <td width="40%">
             <img src="https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github" alt="Rachel's Github Stats">
