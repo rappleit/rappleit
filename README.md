@@ -1,11 +1,10 @@
-
 ![Github Card Animated](https://github.com/user-attachments/assets/2dd7ab1a-6b5e-492b-b1e9-33f034757a37)
 
 ---
 
 <table border="0">
     <tr>
-        <td width="40%">
+        <td width="55%">
             <h2>Hi there!</h2>
             <p>I am a fullstack developer that loves to build projects and bring ideas to life! I have built:</p>
             <ul>
@@ -15,10 +14,10 @@
             </ul>
             Check out my portfolio at https://wwww.rappleit.com!
         </td>
-        <td width="60%">
+        <td width="40%">
             <img src="https://github-readme-stats.vercel.app/api?username=rappleit&theme=tokyonight&show_icons=true&hide=stars,issues&rank_icon=github" alt="Rachel's Github Stats" width="100%">
             <a href="https://github.com/ryo-ma/github-profile-trophy">
-                <img src="https://github-profile-trophy.vercel.app/?username=rappleit&theme=algolia" alt="Trophies">
+                <img src="https://github-profile-trophy.vercel.app/?username=rappleit&theme=algolia&title=-Issues,-Reviews&row=2&column=3" alt="Trophies" width="100%">
             </a>
         </td>
     </tr>
