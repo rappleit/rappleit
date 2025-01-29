@@ -11,7 +11,7 @@
                 <li>💻 5 Web Applications</li>
                 <li>📱 4 Mobile Apps</li>
             </ul>
-            Check out my portfolio at <a>https://wwww.rappleit.com!
+            Check out my portfolio at https://www.rappleit.com!
             <br/>
              <br/>
             <img src="https://komarev.com/ghpvc/?username=rappleit&color=blueviolet&style=for-the-badge" alt="Profile views">
